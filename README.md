@@ -11,8 +11,12 @@ and issues a signed-style passport: score breakdown + SHA-256 fingerprint. No en
 ## Quick start
 ```bash
 ./scripts/setup.sh
-python -m src.eval_harness --fixtures fixtures/synthetic_memories.json --eval fixtures/eval_set.json
+python -m src.eval_harness --memories fixtures/synthetic_memories.json --eval fixtures/eval_set.json
 python -m src.passport_generator --results evidence/last_run.json --out evidence/example_passport.json
+```
+Or one command with Docker (builds, runs the eval, prints the passport):
+```bash
+docker build -t mempolygraph . && docker run --rm mempolygraph
 ```
 
 ## Track record (linked, not copied)
