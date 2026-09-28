@@ -1,7 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:/mnt/e/skill-agent-v34/workspace/workflow/mempolygraph/demo/media/videos/pitch/720p30/partial_movie_files/Proof/288570912_205586384_223132457.mp4'
-file 'file:/mnt/e/skill-agent-v34/workspace/workflow/mempolygraph/demo/media/videos/pitch/720p30/partial_movie_files/Proof/3957198657_4139341131_2001982944.mp4'
-file 'file:/mnt/e/skill-agent-v34/workspace/workflow/mempolygraph/demo/media/videos/pitch/720p30/partial_movie_files/Proof/3957198657_694094920_1770693768.mp4'
-file 'file:/mnt/e/skill-agent-v34/workspace/workflow/mempolygraph/demo/media/videos/pitch/720p30/partial_movie_files/Proof/3957198657_1210520736_2834346370.mp4'
-file 'file:/mnt/e/skill-agent-v34/workspace/workflow/mempolygraph/demo/media/videos/pitch/720p30/partial_movie_files/Proof/3957198657_1444937221_2182447799.mp4'
-file 'file:/mnt/e/skill-agent-v34/workspace/workflow/mempolygraph/demo/media/videos/pitch/720p30/partial_movie_files/Proof/3957198657_1531545553_4145298375.mp4'
