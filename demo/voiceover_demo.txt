@@ -1,0 +1,21 @@
+# DEMO voiceover — EN, narrated by Synapse (~330 words ≈ 2:20 + pauses = 3:00 with zooms)
+
+## D1 SETUP [0:00-0:25]
+No API keys. No wallet. No signup. One command builds the image and runs the full battery locally.
+Watch.
+
+## D2 HARNESS [0:25-1:15]
+Eight recall tests pass. Two unanswerables correctly refused — that is the anti-invention gate doing its job.
+Two adversarial traps deflected. Deterministic across runs: same metrics, twice in a row.
+
+## D3 PASSPORT [1:15-2:00]
+Score: 0.925. Gate: pass. And this fingerprint — recompute the SHA yourself,
+instructions are inside the file. Trust, but verify.
+
+## D4 LIVE ENGINE [2:00-2:45]
+Same harness, real production memory — identical gates, passport issued.
+The engine never leaves this machine: black-box by design.
+
+## D5 CLOSE [2:45-3:00]
+Methodology, fixtures and code in the repo. Verify everything yourself.
+MemPolygraph — prove what your agent really remembers.

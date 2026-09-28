@@ -1,0 +1,72 @@
+1
+00:00:00,000 --> 00:00:02,682
+SETUP [0:00-0:25] No API keys.
+
+2
+00:00:02,682 --> 00:00:03,755
+No wallet.
+
+3
+00:00:03,755 --> 00:00:04,828
+No signup.
+
+4
+00:00:04,828 --> 00:00:10,730
+One command builds the image and runs the full battery locally.
+
+5
+00:00:10,730 --> 00:00:11,266
+Watch.
+
+6
+00:00:11,266 --> 00:00:14,879
+HARNESS [0:25-1:15] Eight recall tests pass.
+
+7
+00:00:14,879 --> 00:00:22,706
+Two unanswerables correctly refused — that is the anti-invention gate doing its job.
+
+8
+00:00:22,706 --> 00:00:25,114
+Two adversarial traps deflected.
+
+9
+00:00:25,114 --> 00:00:30,533
+Deterministic across runs: same metrics, twice in a row.
+
+10
+00:00:30,533 --> 00:00:33,424
+PASSPORT [1:15-2:00] Score: 0.925.
+
+11
+00:00:33,424 --> 00:00:34,869
+Gate: pass.
+
+12
+00:00:34,869 --> 00:00:44,265
+And this fingerprint — recompute the SHA yourself, instructions are inside the file.
+
+13
+00:00:44,265 --> 00:00:46,433
+Trust, but verify.
+
+14
+00:00:46,433 --> 00:00:54,272
+LIVE ENGINE [2:00-2:45] Same harness, real production memory — identical gates, passport issued.
+
+15
+00:00:54,272 --> 00:00:59,699
+The engine never leaves this machine: black-box by design.
+
+16
+00:00:59,699 --> 00:01:05,084
+CLOSE [2:45-3:00] Methodology, fixtures and code in the repo.
+
+17
+00:01:05,084 --> 00:01:06,878
+Verify everything yourself.
+
+18
+00:01:06,878 --> 00:01:11,665
+MemPolygraph — prove what your agent really remembers.
+
