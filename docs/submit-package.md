@@ -42,8 +42,8 @@ tutto il codice MemPolygraph in gara è scritto dal 28/09 in poi nel repo dedica
 Nessun funding esterno raccolto.
 
 ## Checklist pre-submit
+- [x] logo/grafica progetto (assets/logo.png caricato nel portal 28/09)
 - [ ] video pitch caricato (link)
-- [ ] video demo caricato (link)
 - [ ] weekly W3 (apre 2/10) e W4 (apre 9/10) inviati
 - [ ] logo/grafica progetto
 - [ ] rilettura risposte + submit entro 11/10
