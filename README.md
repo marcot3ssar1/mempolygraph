@@ -25,3 +25,8 @@ docker build -t mempolygraph . && docker run --rm mempolygraph
 
 ## Security
 See [SECURITY.md](SECURITY.md). In short: no engine internals, prompts, keys, tokens, or raw memories are ever committed here.
+
+## Verified 28/09 (WSL Ubuntu 22.04, Python 3.14 venv, Docker 29.8.1)
+- venv: harness PASS (recall 0.875, abstain 1.0, adv 1.0, deterministic), passport accuracy 0.925.
+- docker build + run: prints valid passport, gate_pass true. Fingerprint independently recomputable.
+
