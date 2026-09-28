@@ -1,6 +1,7 @@
 # YouTube upload — Weekly W2 (non in elenco)
 
 File: `demo/weekly_final.mp4` (57s, 1080p, 1.5MB)
+Link pubblicato 28/09: https://youtu.be/siaBhMz3Nio (titolo e canale @Marco-Tessari verificati via oEmbed)
 
 ## Titolo
 MemPolygraph — Week 2: eval harness PASS + Docker verified | Colosseum Crypto World's Fair
