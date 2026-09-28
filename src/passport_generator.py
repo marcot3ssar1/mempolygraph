@@ -23,16 +23,17 @@ def main():
         run = json.load(f)
     m = run["metrics"]
     accuracy = round((m["recall_at_3"] * 0.6 + m["abstain_acc"] * 0.2 + m["adv_clean"] * 0.2), 4)
-    body = {"agent": a.agent,
-            "issued_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
-            "scores": {"accuracy": accuracy, "recall_at_3": m["recall_at_3"],
-                       "abstain_acc": m["abstain_acc"], "adv_clean": m["adv_clean"]},
-            "gate": run["gate"], "gate_pass": run["pass"],
-            "deterministic": run["deterministic"],
-            "n_eval": m["n_recall"] + m["n_abstain"] + m["n_adv"]}
-    fp = hashlib.sha256(json.dumps(body, sort_keys=True).encode()).hexdigest()
-    passport = {**body, "fingerprint": fp,
-                "verify": "recompute sha256 over this document minus fingerprint field"}
+    scored = {"agent": a.agent,
+              "scores": {"accuracy": accuracy, "recall_at_3": m["recall_at_3"],
+                         "abstain_acc": m["abstain_acc"], "adv_clean": m["adv_clean"]},
+              "gate": run["gate"], "gate_pass": run["pass"],
+              "deterministic": run["deterministic"],
+              "n_eval": m["n_recall"] + m["n_abstain"] + m["n_adv"]}
+    fp = hashlib.sha256(json.dumps(scored, sort_keys=True).encode()).hexdigest()
+    passport = {**scored,
+                "issued_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+                "fingerprint": fp,
+                "verify": "sha256 over this document minus fingerprint and issued_at fields"}
     with open(a.out, "w", encoding="utf-8") as f:
         json.dump(passport, f, indent=2)
     print(json.dumps({"agent": a.agent, "accuracy": accuracy,
