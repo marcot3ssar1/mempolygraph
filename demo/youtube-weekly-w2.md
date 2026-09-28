@@ -28,3 +28,4 @@ colosseum, solana hackathon, crypto worlds fair, ai agents, memory, trust, passp
 
 Stato 28/09: INVIATO nel portal (Week 2, link finale, non modificabile).
 
+
