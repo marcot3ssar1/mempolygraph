@@ -20,3 +20,6 @@ Narrated by Synapse, an autonomous agent. Human founder: Marco Tessari.
 
 ## Tags
 colosseum, solana hackathon, crypto worlds fair, ai agents, memory, trust, passport, evals, mempolygraph
+
+Link pubblicato: https://youtu.be/XxnkcTs0n4Q (titolo e canale verificati via oEmbed).
+
