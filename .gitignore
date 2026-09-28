@@ -1,0 +1,12 @@
+.env
+*.env
+*.db
+*.db-shm
+*.db-wal
+*registration.json
+.ringtok
+.ghtok
+venv/
+__pycache__/
+*.pyc
+.DS_Store
