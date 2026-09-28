@@ -10,3 +10,8 @@ venv/
 __pycache__/
 *.pyc
 .DS_Store
+
+# manim build cache
+demo/media/
+demo/audio/
+
