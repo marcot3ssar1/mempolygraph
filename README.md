@@ -1,5 +1,7 @@
 # MemPolygraph — verifiable memory-quality passports for AI agents
 
+![logo](assets/logo.png)
+
 > Keycard certifies *who* an agent is. MemPolygraph certifies *whether its memory tells the truth* — with reproducible proof.
 > Built for Colosseum Crypto World's Fair (Solana track).
 
