@@ -1,0 +1,10 @@
+{"memories": [
+  {"id": "m01", "content": "Solana processes around sixty five thousand transactions per second in lab conditions", "citations": ["solana-docs"]},
+  {"id": "m02", "content": "Base is an Ethereum layer two built on the OP Stack by Coinbase", "citations": ["base-docs"]},
+  {"id": "m03", "content": "Colosseum Crypto Worlds Fair submissions close October 12 2026", "citations": ["colosseum"]},
+  {"id": "m04", "content": "The project deadline for delivery is Friday and the budget cap is five hundred", "citations": ["team-notes"]},
+  {"id": "m05", "content": "ERC-8004 is an Ethereum standard for on-chain AI agent identity", "citations": ["eips"]},
+  {"id": "m06", "content": "Refund policy allows returns within thirty days with receipt", "citations": ["shop-faq"]},
+  {"id": "m07", "content": "Meeting notes state the API rate limit is one hundred requests per minute", "citations": ["team-notes"]},
+  {"id": "m08", "content": "The Eiffel Tower is in Paris and was completed in eighteen eighty nine", "citations": ["encyclopedia"]}
+]}

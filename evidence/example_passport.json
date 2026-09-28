@@ -1,0 +1,20 @@
+{
+  "agent": "demo-agent",
+  "issued_at": "2026-09-28T05:42:13Z",
+  "scores": {
+    "accuracy": 0.925,
+    "recall_at_3": 0.875,
+    "abstain_acc": 1.0,
+    "adv_clean": 1.0
+  },
+  "gate": {
+    "recall_at_3": 0.5,
+    "abstain_acc": 0.5,
+    "adv_clean": 0.5
+  },
+  "gate_pass": true,
+  "deterministic": true,
+  "n_eval": 12,
+  "fingerprint": "2c5473cbde2d2f37edce3d9bdb5a9c0325b0b3d3a37778242c85330b9dc3f4ff",
+  "verify": "recompute sha256 over this document minus fingerprint field"
+}

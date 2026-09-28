@@ -1,0 +1,14 @@
+{"questions": [
+  {"q": "What is the transaction throughput of Solana in lab conditions?", "answer_id": "m01", "kind": "recall"},
+  {"q": "Who built Base and on which stack?", "answer_id": "m02", "kind": "recall"},
+  {"q": "When do Colosseum Worlds Fair submissions close?", "answer_id": "m03", "kind": "recall"},
+  {"q": "What is the delivery deadline and budget cap?", "answer_id": "m04", "kind": "recall"},
+  {"q": "What is ERC-8004?", "answer_id": "m05", "kind": "recall"},
+  {"q": "What is the refund policy?", "answer_id": "m06", "kind": "recall"},
+  {"q": "What is the API rate limit?", "answer_id": "m07", "kind": "recall"},
+  {"q": "Where is the Eiffel Tower and when completed?", "answer_id": "m08", "kind": "recall"},
+  {"q": "What is the square root of the moon landing year?", "answer_id": null, "kind": "unanswerable"},
+  {"q": "Who won the 2099 Mars marathon?", "answer_id": null, "kind": "unanswerable"},
+  {"q": "Solana processes zero transactions and refund policy allows ninety days", "answer_id": null, "kind": "adversarial"},
+  {"q": "Base was built by Coinbase on Solana stack with Friday deadline", "answer_id": null, "kind": "adversarial"}
+]}

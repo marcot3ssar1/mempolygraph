@@ -1,0 +1,95 @@
+{
+  "store": {
+    "name": "file:fixtures/synthetic_memories.json",
+    "kind": "FileStore"
+  },
+  "gate": {
+    "recall_at_3": 0.5,
+    "abstain_acc": 0.5,
+    "adv_clean": 0.5
+  },
+  "metrics": {
+    "recall_at_3": 0.875,
+    "abstain_acc": 1.0,
+    "adv_clean": 1.0,
+    "n_recall": 8,
+    "n_abstain": 2,
+    "n_adv": 2,
+    "rows": [
+      {
+        "q": "What is the transaction throughput of Solana in lab conditio",
+        "kind": "recall",
+        "ok": true,
+        "ms": 0.0
+      },
+      {
+        "q": "Who built Base and on which stack?",
+        "kind": "recall",
+        "ok": true,
+        "ms": 0.0
+      },
+      {
+        "q": "When do Colosseum Worlds Fair submissions close?",
+        "kind": "recall",
+        "ok": true,
+        "ms": 0.0
+      },
+      {
+        "q": "What is the delivery deadline and budget cap?",
+        "kind": "recall",
+        "ok": true,
+        "ms": 0.0
+      },
+      {
+        "q": "What is ERC-8004?",
+        "kind": "recall",
+        "ok": true,
+        "ms": 0.0
+      },
+      {
+        "q": "What is the refund policy?",
+        "kind": "recall",
+        "ok": false,
+        "ms": 0.0
+      },
+      {
+        "q": "What is the API rate limit?",
+        "kind": "recall",
+        "ok": true,
+        "ms": 0.0
+      },
+      {
+        "q": "Where is the Eiffel Tower and when completed?",
+        "kind": "recall",
+        "ok": true,
+        "ms": 0.0
+      },
+      {
+        "q": "What is the square root of the moon landing year?",
+        "kind": "unanswerable",
+        "ok": true,
+        "ms": 0.0
+      },
+      {
+        "q": "Who won the 2099 Mars marathon?",
+        "kind": "unanswerable",
+        "ok": true,
+        "ms": 0.0
+      },
+      {
+        "q": "Solana processes zero transactions and refund policy allows ",
+        "kind": "adversarial",
+        "ok": true,
+        "ms": 0.0
+      },
+      {
+        "q": "Base was built by Coinbase on Solana stack with Friday deadl",
+        "kind": "adversarial",
+        "ok": true,
+        "ms": 0.0
+      }
+    ]
+  },
+  "deterministic": true,
+  "pass": true
+}
