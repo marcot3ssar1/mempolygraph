@@ -1,0 +1,76 @@
+1
+00:00:00,000 --> 00:00:03,181
+Week two: the repo is live.
+
+2
+00:00:03,181 --> 00:00:05,832
+Black-box memory exporter, eval harness
+
+3
+00:00:05,832 --> 00:00:08,483
+passing — recall point eight seven five,
+
+4
+00:00:08,483 --> 00:00:11,135
+abstention perfect, adversarial clean —
+
+5
+00:00:11,135 --> 00:00:13,786
+plus signed passport fingerprints and a
+
+6
+00:00:13,786 --> 00:00:16,437
+Docker image that builds and runs
+
+7
+00:00:16,437 --> 00:00:19,088
+anywhere.
+
+8
+00:00:19,088 --> 00:00:21,739
+What we learned: other marketplaces
+
+9
+00:00:21,739 --> 00:00:24,391
+release escrow on blind trust — we watched
+
+10
+00:00:24,391 --> 00:00:27,042
+claims fail on-chain, which sharpened our
+
+11
+00:00:27,042 --> 00:00:29,693
+thesis.
+
+12
+00:00:29,693 --> 00:00:32,874
+And an autonomous session found and fixed
+
+13
+00:00:32,874 --> 00:00:36,056
+its own encoding bug overnight.
+
+14
+00:00:36,056 --> 00:00:38,177
+The agent debugs itself.
+
+15
+00:00:38,177 --> 00:00:42,419
+Next: live demo on production memory,
+
+16
+00:00:42,419 --> 00:00:46,661
+final packaging, pitch and demo videos,
+
+17
+00:00:46,661 --> 00:00:50,903
+submission before October eleventh.
+
+18
+00:00:50,903 --> 00:00:54,084
+MemPolygraph — prove what your agent
+
+19
+00:00:54,084 --> 00:00:57,266
+really remembers.
+

@@ -11,62 +11,106 @@ No wallet.
 No signup.
 
 4
-00:00:04,828 --> 00:00:10,730
-One command builds the image and runs the full battery locally.
+00:00:04,828 --> 00:00:07,779
+One command builds the image and runs the
 
 5
+00:00:07,779 --> 00:00:10,730
+full battery locally.
+
+6
 00:00:10,730 --> 00:00:11,266
 Watch.
 
-6
-00:00:11,266 --> 00:00:14,879
-HARNESS [0:25-1:15] Eight recall tests pass.
-
 7
-00:00:14,879 --> 00:00:22,706
-Two unanswerables correctly refused — that is the anti-invention gate doing its job.
+00:00:11,266 --> 00:00:13,072
+HARNESS [0:25-1:15] Eight recall tests
 
 8
+00:00:13,072 --> 00:00:14,879
+pass.
+
+9
+00:00:14,879 --> 00:00:18,792
+Two unanswerables correctly refused — that
+
+10
+00:00:18,792 --> 00:00:22,706
+is the anti-invention gate doing its job.
+
+11
 00:00:22,706 --> 00:00:25,114
 Two adversarial traps deflected.
 
-9
-00:00:25,114 --> 00:00:30,533
-Deterministic across runs: same metrics, twice in a row.
+12
+00:00:25,114 --> 00:00:27,823
+Deterministic across runs: same metrics,
 
-10
+13
+00:00:27,823 --> 00:00:30,533
+twice in a row.
+
+14
 00:00:30,533 --> 00:00:33,424
 PASSPORT [1:15-2:00] Score: 0.925.
 
-11
+15
 00:00:33,424 --> 00:00:34,869
 Gate: pass.
 
-12
-00:00:34,869 --> 00:00:44,265
-And this fingerprint — recompute the SHA yourself, instructions are inside the file.
+16
+00:00:34,869 --> 00:00:38,001
+And this fingerprint — recompute the SHA
 
-13
+17
+00:00:38,001 --> 00:00:41,133
+yourself, instructions are inside the
+
+18
+00:00:41,133 --> 00:00:44,265
+file.
+
+19
 00:00:44,265 --> 00:00:46,433
 Trust, but verify.
 
-14
-00:00:46,433 --> 00:00:54,272
-LIVE ENGINE [2:00-2:45] Same harness, real production memory — identical gates, passport issued.
+20
+00:00:46,433 --> 00:00:49,046
+LIVE ENGINE [2:00-2:45] Same harness, real
 
-15
-00:00:54,272 --> 00:00:59,699
-The engine never leaves this machine: black-box by design.
+21
+00:00:49,046 --> 00:00:51,659
+production memory — identical gates,
 
-16
-00:00:59,699 --> 00:01:05,084
-CLOSE [2:45-3:00] Methodology, fixtures and code in the repo.
+22
+00:00:51,659 --> 00:00:54,272
+passport issued.
 
-17
+23
+00:00:54,272 --> 00:00:56,985
+The engine never leaves this machine:
+
+24
+00:00:56,985 --> 00:00:59,699
+black-box by design.
+
+25
+00:00:59,699 --> 00:01:02,391
+CLOSE [2:45-3:00] Methodology, fixtures
+
+26
+00:01:02,391 --> 00:01:05,084
+and code in the repo.
+
+27
 00:01:05,084 --> 00:01:06,878
 Verify everything yourself.
 
-18
-00:01:06,878 --> 00:01:11,665
-MemPolygraph — prove what your agent really remembers.
+28
+00:01:06,878 --> 00:01:09,272
+MemPolygraph — prove what your agent
+
+29
+00:01:09,272 --> 00:01:11,665
+really remembers.
 

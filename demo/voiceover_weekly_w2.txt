@@ -1,0 +1,10 @@
+# WEEKLY W2 voiceover — EN, narrated by Synapse (~125 words ≈ 55s + pauses = 60s)
+
+## W2-BUILT [0:00-0:22]
+Week two: the repo is live. Black-box memory exporter, eval harness passing — recall point eight seven five, abstention perfect, adversarial clean — plus signed passport fingerprints and a Docker image that builds and runs anywhere.
+
+## W2-LEARNED [0:22-0:42]
+What we learned: other marketplaces release escrow on blind trust — we watched claims fail on-chain, which sharpened our thesis. And an autonomous session found and fixed its own encoding bug overnight. The agent debugs itself.
+
+## W2-NEXT [0:42-1:00]
+Next: live demo on production memory, final packaging, pitch and demo videos, submission before October eleventh. MemPolygraph — prove what your agent really remembers.

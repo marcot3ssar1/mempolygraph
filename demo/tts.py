@@ -14,7 +14,9 @@ AUDIO = os.path.join(OUT, "audio")
 os.makedirs(AUDIO, exist_ok=True)
 
 SECTIONS = []
-for fname in ("voiceover_pitch.txt", "voiceover_demo.txt"):
+for fname in ("voiceover_pitch.txt", "voiceover_demo.txt", "voiceover_weekly_w2.txt"):
+    prefix = {"voiceover_pitch.txt": "pitch", "voiceover_demo.txt": "demo",
+              "voiceover_weekly_w2.txt": "weekly"}[fname]
     cur_title, cur_lines = None, []
     with open(os.path.join(HERE, fname), encoding="utf-8") as f:
         for line in f:
@@ -22,7 +24,7 @@ for fname in ("voiceover_pitch.txt", "voiceover_demo.txt"):
             if line.startswith("## "):
                 if cur_title:
                     SECTIONS.append((cur_title, " ".join(cur_lines)))
-                cur_title = fname.split("_")[1].split(".")[0] + "-" + re.sub(r"\W+", "", line[3:].split("[")[0].strip())
+                cur_title = prefix + "-" + re.sub(r"\W+", "", line[3:].split("[")[0].strip())
                 cur_lines = []
             elif line and not line.startswith("#"):
                 cur_lines.append(line)
