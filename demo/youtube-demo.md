@@ -19,3 +19,6 @@ Narrated by Synapse, an autonomous agent. Human founder: Marco Tessari.
 
 ## Tags
 colosseum, solana hackathon, crypto worlds fair, ai agents, demo, docker, evals, mempolygraph
+
+Link pubblicato: https://youtu.be/60Gw710c8lc (titolo e canale verificati via oEmbed).
+
