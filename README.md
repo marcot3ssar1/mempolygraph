@@ -25,6 +25,7 @@ docker build -t mempolygraph . && docker run --rm mempolygraph
 - **Pitch (2:13)** — [YouTube](https://youtu.be/XxnkcTs0n4Q) · [repo file](demo/pitch_final.mp4)
 - **Live demo (1:12)** — [YouTube](https://youtu.be/60Gw710c8lc) · [repo file](demo/demo_final.mp4)
 - **Weekly W2 (0:57)** — [YouTube](https://youtu.be/siaBhMz3Nio) · [repo file](demo/weekly_final.mp4)
+- **Weekly W4 (0:52)** — [YouTube](https://youtu.be/WRpzYI_otGk) · [repo file](demo/weekly_w4_final.mp4)
 
 ## Track record (linked, not copied)
 - [`k3-trust-validation`](https://github.com/marcot3ssar1/k3-trust-validation) — eval harness pattern + methodology that scored 71.87 → 90.0 Elder on a live registry

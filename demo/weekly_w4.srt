@@ -1,0 +1,72 @@
+1
+00:00:00,000 --> 00:00:01,518
+Week four: MemPolygraph is
+
+2
+00:00:01,518 --> 00:00:03,037
+submission-ready.
+
+3
+00:00:03,037 --> 00:00:06,681
+Black-box harness passing — recall point
+
+4
+00:00:06,681 --> 00:00:10,326
+eight seven five, abstention perfect,
+
+5
+00:00:10,326 --> 00:00:13,971
+adversarial clean — plus signed passports
+
+6
+00:00:13,971 --> 00:00:17,615
+and a Docker image that runs anywhere.
+
+7
+00:00:18,015 --> 00:00:20,070
+What we learned: packaging beats new
+
+8
+00:00:20,070 --> 00:00:22,125
+features.
+
+9
+00:00:22,125 --> 00:00:24,768
+Repo frozen, Docker run verified, pitch
+
+10
+00:00:24,768 --> 00:00:27,410
+and demo published.
+
+11
+00:00:27,410 --> 00:00:30,933
+Engine, keys, and memories stay out of the
+
+12
+00:00:30,933 --> 00:00:34,456
+public repo by design.
+
+13
+00:00:34,856 --> 00:00:36,782
+Next: final submission before October
+
+14
+00:00:36,782 --> 00:00:38,709
+twelfth.
+
+15
+00:00:38,709 --> 00:00:42,241
+Pitch, demo, and four weekly updates
+
+16
+00:00:42,241 --> 00:00:45,774
+linked, reproducible with one command.
+
+17
+00:00:45,774 --> 00:00:48,343
+MemPolygraph — prove what your agent
+
+18
+00:00:48,343 --> 00:00:50,911
+really remembers.
+

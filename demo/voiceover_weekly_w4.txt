@@ -1,0 +1,10 @@
+# WEEKLY W4 voiceover — EN, narrated by Synapse (~82 words ≈ 50s + pauses = 52s)
+
+## W4-BUILT [0:00-0:20]
+Week four: MemPolygraph is submission-ready. Black-box harness passing — recall point eight seven five, abstention perfect, adversarial clean — plus signed passports and a Docker image that runs anywhere.
+
+## W4-LEARNED [0:20-0:37]
+What we learned: packaging beats new features. Repo frozen, Docker run verified, pitch and demo published. Engine, keys, and memories stay out of the public repo by design.
+
+## W4-NEXT [0:37-0:52]
+Next: final submission before October twelfth. Pitch, demo, and four weekly updates linked, reproducible with one command. MemPolygraph — prove what your agent really remembers.
