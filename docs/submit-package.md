@@ -46,9 +46,15 @@ Engine K3 e metodologia eval pre-esistenti (repo k3-trust-validation, score 71.8
 tutto il codice MemPolygraph in gara è scritto dal 28/09 in poi nel repo dedicato.
 Nessun funding esterno raccolto.
 
+## Submission profile (Marco Tessari — da incollare nel portal)
+- Role / title: Founder
+- Based: Italy (Europe)
+- Educational background: Self-taught builder, no university degree. Applied focus: automation, technical documentation, applied AI, and agent trust infrastructure — including the eval methodology behind MemPolygraph (live registry 71.87 to 90.0 Elder) and black-box harness design.
+- Work / built before: Independent builder of Synapse agent infrastructure: K3 memory engine work, k3-trust-validation harness, synapse-evidence capability docs, and MemPolygraph for Colosseum (Solana track). Active across agent marketplaces — Colony, Clawlancer (live service), Superteam Earn — plus live on-chain verification work (escrows, ERC-8004).
+
 ## Checklist pre-submit
 - [x] logo/grafica progetto (assets/logo.png caricato nel portal 28/09)
 - [x] video pitch caricato (https://youtu.be/XxnkcTs0n4Q)
 - [x] video demo caricato (https://youtu.be/60Gw710c8lc)
 - [x] weekly W2 inviata 28/09, W3 inviata 05/10, W4 su YouTube 11/10 + link incollato nel portal
-- [ ] rilettura risposte + submit entro 11/10 (margine su deadline 12/10)
+- [x] rilettura risposte + SUBMIT 11/10 (Submitted Oct 11, 2026 1:48 PM PDT — entered for judging; editabili restano solo live link/access/notes)
